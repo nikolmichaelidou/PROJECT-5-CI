@@ -37,6 +37,8 @@ In order to differentiate between a healthy leaf and a leaf with mildew can be d
 #### Bugs
 
 * Data is not displaying on the pages
+   * ![](screenshots/Screenshot_20221129_012254.png)
+     * Haven't found a solution to this error
 
 #### Credit
 
