@@ -1,16 +1,8 @@
-<<<<<<< HEAD
 #numpy==1.19.2
 #pandas==1.1.2
 #matplotlib==3.3.1
 #seaborn==0.11.0
 #plotly==4.12.0
-=======
-numpy==1.23.5
-pandas==1.1.2
-matplotlib==3.3.1
-seaborn==0.11.0
-plotly==4.12.0
->>>>>>> 2a4bb2e0158da6b1c7be0c51ac737ac0da88cd32
 
 #streamlit==0.85.0
 
