@@ -12,9 +12,10 @@ import random
 
 def visualization_leaves_page_body():
     st.write("## Cherry Leaves Visualizer")
+    st.write("Difference between a healthy leaf and one with mildew")
 
-    version = 'v1'
-    if st.checkbox("..."):
+    #version = 'v1'
+    #if st.checkbox("..."):
 
-        avg_healthy = plt.imread(f"outputs/{version}/avg_var_Healthy.png")
-        avg_mildew = plt.imread(f"outputs/{version}/avg_var_Mildew.png")
+    #    avg_healthy = plt.imread(f"outputs/{version}/avg_var_Healthy.png")
+    #    avg_mildew = plt.imread(f"outputs/{version}/avg_var_Mildew.png")
