@@ -2,7 +2,7 @@
 
 ## Dataset Content
 
-This dataset contains 2104 images of cherry leaves. The photos show healthy leaves and leaves with mildew
+This dataset contains 2104 images of cherry leaves. The photos show healthy leaves and leaves with mildew.
 
 ## Requirements
 
@@ -32,17 +32,23 @@ In order to differentiate between a healthy leaf and a leaf with mildew can be d
     * is interested in conducting a study to visually differentiate a cherry leaf that is healthy from one that contains powdery mildew.
     * is interested in predicting if a cherry tree is healthy or contains powdery mildew.
 
+
+### Page 2 : Data Visualizer
+* ....
+
 <hr>
 
 #### Bugs
 
 * Data is not displaying on the pages
    * ![](screenshots/Screenshot_20221129_012254.png)
-     * Haven't found a solution to this error 
+  * ![](screenshots/Screenshot_20221206_035626.png)
+     * Haven't found a solution to this error.
 * Failing to deploy
   * ![](screenshots/Screenshot%20(35).png)  
-    * Haven't fixed this issue
+    * It was a heroku stack and python version issue.
+      * Switch from Heroku -22 to Heroku -20, and swtiched to Python-3.8.15.
 
 #### Credit
 
-* This prototype was created following Code Institutes Walkthrough Project 01 for Data Analysis & Machine Learning Toolkit
+* This prototype was created following Code Institutes Walkthrough Project 01 for Data Analysis & Machine Learning Toolkit.
